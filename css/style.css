@@ -5,8 +5,8 @@
 }
 
 .image-adjust{
-    height: 500px;
-    width: 500px;
+    height: 1000px;
+    width: 600px;
 }
 
 .font-gloriosa{
@@ -18,6 +18,6 @@ nav{
     font-size: 23px;
     text-align: center;
     padding: 30px;
-    background-color:yellowgreen;
+    background-color:red;
     color: white;
 } 
